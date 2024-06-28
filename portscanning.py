@@ -69,3 +69,8 @@ if __name__ == "__main__":
     num_threads = 10
 
     port_scanner(target_host, start_port, end_port, num_threads)
+
+
+
+# This is made by TRAJ
+#Thank You
